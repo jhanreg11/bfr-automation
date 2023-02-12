@@ -9,6 +9,7 @@ def main():
     }
     url = f'https://bcourses.berkeley.edu/api/v1/courses/{course_id}'
     print(headers, url)
+    
     disc_topics = get_discussion_topics(url, headers)
     print(disc_topics)
     result_disc_yes = []

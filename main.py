@@ -33,7 +33,7 @@ def yes_counter(topic, url, headers):
     for e in entries:
         message = e["message"]
         first_word = ""
-        for i in range(len(message)):
+        for i in message:
             if i != " ":
                 first_word += i
             else:

@@ -1,3 +1,4 @@
 venv/
 credentials.json
 token.json
+env_set.sh

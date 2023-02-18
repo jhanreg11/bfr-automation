@@ -1,2 +1,2 @@
-export auth_token=1072~BXI8YYjTaO0IYuXm5d87aJxd10aGSgPweGr4BYvfTcj1beVAKu7wo5IpC8rSNUo6
+export auth_token=
 export course_id=1523939
